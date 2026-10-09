@@ -6,10 +6,10 @@
    Roblox command interface inspired by Visual UI Command.
   <br/>
   <br/>
-  <img src="https://img.shields.io/github/stars/YourUsername/YourRepo?style=flat-square" />
-  <img src="https://img.shields.io/github/forks/YourUsername/YourRepo?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/YourUsername/YourRepo?style=flat-square" />
-  <img src="https://img.shields.io/github/license/YourUsername/YourRepo?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/stack-js/Command-UI-Admin?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/stack-js/Command-UI-Admin?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/stack-js/Command-UI-Admin?style=flat-square" />
+  <img src="https://img.shields.io/github/license/stack-js/Command-UI-Admin?style=flat-square" />
   <br/><br/>
   <a href="#features"> Features</a> • 
   <a href="#installation">Installation</a> • 
